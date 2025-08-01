@@ -1,0 +1,1 @@
+<h1>Gestión de Áreas</h1>

@@ -1,0 +1,17 @@
+{
+    "name": "usuario/empleados",
+    "autoload": {
+        "psr-4": {
+            "Usuario\\Empleados\\": "classes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jonathan Prada",
+            "email": "jstevenprada@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
